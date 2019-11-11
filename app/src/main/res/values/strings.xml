@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bro App</string>
+    <string name="enter_word_label">ZADAJ SLOVO NA VYTVORENIE HLÁŠKY</string>
+    <string name="enter_word_input">slovo</string>
+    <string name="darkmode_switch">TMAVÝ REŽIM</string>
+</resources>
